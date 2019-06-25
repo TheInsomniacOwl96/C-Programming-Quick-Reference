@@ -10,17 +10,13 @@ To get started with C programming you need two important things
 
 ## Basic structure of a C program
 
-`
+```C
 #include<stdio.h>
 #include<stdlib.h>
 
 int main()
 {
   printf("Hello World!");
-  return 1;
+  return 0;
 }
-
-
-
-
-`
+```

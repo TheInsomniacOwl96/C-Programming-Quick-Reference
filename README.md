@@ -5,7 +5,6 @@
 To get started with C programming you need two important things
 
 - An IDE
-<<<<<<< HEAD
 - A Compiler
 
 
@@ -21,6 +20,3 @@ int main()
   return 0;
 }
 ```
-=======
-- A Compiler 
->>>>>>> parent of c3e0f60... basic structure added

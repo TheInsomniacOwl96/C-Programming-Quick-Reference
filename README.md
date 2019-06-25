@@ -10,7 +10,7 @@ C is a general purpose, procedural programming language. It is ideal for system 
 - Code Re-usability
 - Limited number of keywords
 
-## Things to consider while coding in code
+## Things to consider while coding in c
 
 - Every C statement must end with a ;.
 - There are only 32 reserved keywords.
@@ -65,7 +65,7 @@ They are...
 
 ## Receiving input from the user
 
-**scanf** function is used to receive input from the user
+**scanf** function is used to receive input from the user.
 A **&** sign comes before each variable name that comes in variable listing. Character strings are exceptions from this rule.
 
 Example:

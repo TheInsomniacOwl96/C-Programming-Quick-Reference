@@ -2,7 +2,7 @@
 
 C is a general purpose, procedural programming language. It is ideal for system programming. C has the ability to manipulate bits, bytes and addresses.
 
-##Features of C
+## Features of C
 
 - Structured language
 - General purpose language
@@ -76,7 +76,7 @@ float b;
 scanf("%d%f",a,b);
 
 ```
-##Expressions and Operators
+## Expressions and Operators
 
 Note:
 

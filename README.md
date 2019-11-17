@@ -82,4 +82,4 @@ Note:
 
 > **&** is used to indicate starting address of the variable
 
-(will be updated soon)
+(more will be added soon)

@@ -81,3 +81,5 @@ scanf("%d%f",a,b);
 Note:
 
 > **&** is used to indicate starting address of the variable
+
+(will be updated soon)
